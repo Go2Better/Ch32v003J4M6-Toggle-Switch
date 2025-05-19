@@ -7,3 +7,4 @@ I got some problem with MCU delay time but not sure what made its 300s delay use
 ...Not sure of what code of 50MHz = 30MHz in ch32v00x_gpio.h
 So I have adjusted value from 300s to 150s delay in my code for nearly 5 minuts delay in my project.
 
+clip of using this code https://www.facebook.com/share/v/1ARYg7bUG3/ 
