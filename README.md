@@ -1,5 +1,6 @@
 Firmware for CH32V003J4M6 for toggle switch using Mounriver Studio 
 and ch32v003-vanilla-gcc of https://github.com/maxgerhardt/ch32v003-vanilla-gcc/tree/main
+   ** I use Google Gemini https://gemini.google.com to created most this code. **
 
 but I use libraries from https://github.com/xpack-dev-tools/riscv-none-elf-gcc-xpack/releases/tag/v12.2.0-3/
 
